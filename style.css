@@ -1,0 +1,76 @@
+body {
+  background-color: black;
+  font-family: "Open Sans";
+}
+.i {
+}
+.Instagrampost {
+  background-color: yellow;
+  width: 550px;
+  height: 750px;
+  margin: auto;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 0px;
+}
+.Instagrampost-header {
+  padding: 8px 0px 16px 0px;
+  width: 50px;
+  margin: 10px 0px 0px 10px;
+}
+.headericon {
+  
+  float: left;
+  padding: 10px;
+}
+.Instagrampost-body {
+  background-color: red;
+  height: 400px;
+  width: 550px;
+  margin: 10px 0px 10px 0px;
+}
+.post-image {
+  object-fit: contain;
+  width: 550px;
+  height: 440px;
+}
+.Instagrampost-footer {
+}
+.bookmark-span {
+  float: right;
+  width: 40px;
+}
+.Instagrampost-header-div2 {
+  postiion: relative;
+  display: flex;
+}
+.Instagrampost-header-div3{
+  font-size: 35px;
+  text-align: right;
+  position: absolute;
+  float: right;
+  width: 500px;
+}
+.footer-icons{
+  font-size: 35px;
+  
+}
+.footer-icons-p{
+  margin: 10px 10px 20px 10px;
+  
+}
+.footerlikes{
+  margin: 10px 10px 10px 10px;
+  
+}
+.bold-word{
+  font-weight: 900
+}
+.footer-p{
+  margin: 10px 10px 10px 10px;
+}
+.header-h1{
+  height: 45px;
+}
